@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Ex_Youtube_py/com.python.pydev.analysis/v2_indexcache
+youtube|1639499136000000000|/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Ex_Youtube_py/src/youtube.py
+youtube_TEST|1639498948000000000|/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Ex_Youtube_py/src/youtube_TEST.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=youtube
+1=/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Ex_Youtube_py/src/youtube.py
+4=youtube_TEST
+3=/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Ex_Youtube_py/src/youtube_TEST.py
+-- END DICTIONARY
+-- START TREE 1
+7
+can|1|canales_top!1^69#5*18@
+inc|1|incrementos_visitas!1^104#5*18@
+lee|1|lee_trending_videos!1^15#5*18@
+lik|1|likeability!1^85#5*18@
+med|1|media_visitas!1^34#5*18@
+tes|6|test_video_mayor_ratio_likes_dislikes!3^31#5*34@test_media_visitas!3^19#5*34@test_canales_top!3^38#5*34@test_incrementos_visitas!3^50#5*34@test_video_mas_likeability_por_categoria!3^44#5*34@test_lee_trending_videos!3^12#5*34@
+vid|6|videos!3^58#5*35@Video!1^11#1*19@videos_por_canal!1^56#5*18@video_mayor_ratio_likes_dislikes!1^47#5*18@videos_por_categoria!1^89#5*18@video_mas_likeability_por_categoria!1^77#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

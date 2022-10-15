@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Examen_2019_v1/src/modulo.py&apos; to &apos;Youtube.py&apos;" description="Rename resource &apos;modulo.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/modulo.py" name="Youtube.py" stamp="1643106769753" updateReferences="true"/>
+</session>

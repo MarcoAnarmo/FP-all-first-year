@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Examen_2019_v2_py/com.python.pydev.analysis/v2_indexcache
+compras|1643224442000000000|/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Examen_2019_v2_py/src/compras.py
+test_compras|1643224466000000000|/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Examen_2019_v2_py/src/test_compras.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=compras
+3=/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Examen_2019_v2_py/src/test_compras.py
+4=test_compras
+1=/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Examen_2019_v2_py/src/compras.py
+-- END DICTIONARY
+-- START TREE 1
+8
+cli|2|clientes_itinerantes!1^75#5*18@clientes_por_provincias!1^82#5*18@
+com|4|Compra!1^12#1*19@compra_maxima_minima_provincia!1^40#5*18@compra_fecha_salida!1^104#5*18@compras!3^67#5*35@
+dia|2|dias_estrella!1^97#5*18@dias_estrellas!1^116#5*18@
+fac|1|facturacion_por_supermercado!1^64#5*18@
+hor|1|hora_menos_afluencia!1^51#5*18@
+lee|1|lee_compras!1^18#5*18@
+sup|1|supermercados_mas_facturacion!1^58#5*18@
+tes|6|test_lee_compras!3^12#5*34@test_compra_maxima_minima_provincia!3^19#5*34@test_hora_menos_afluencia!3^28#5*34@test_supermercados_mas_facturacion!3^36#5*34@test_clientes_itinerantes!3^44#5*34@test_dias_estrella!3^52#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Poblaciones_py/com.python.pydev.analysis/v2_indexcache
+src.poblacion|1635260423000000000|/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Poblaciones_py/src/src/poblacion.py
+src.poblacion_TEST|1635261284000000000|/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Poblaciones_py/src/src/poblacion_TEST.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=src.poblacion
+3=/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Poblaciones_py/src/src/poblacion_TEST.py
+1=/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Poblaciones_py/src/src/poblacion.py
+4=src.poblacion_TEST
+-- END DICTIONARY
+-- START TREE 1
+8
+cal|1|calcula_paises!1^90#5*18@
+fil|2|filtra_por_paises_y_anyo!1^136#5*18@filtra_por_pais!1^116#5*18@
+lee|1|lee_poblaciones!1^58#5*18@
+mos|1|mostrar_numerado!3^16#5*34@
+mue|2|muestra_evolucion_poblacion!1^159#5*18@muestra_comparativa_paises_anyo!1^185#5*18@
+pob|1|POBLACIONES!3^56#5*35@
+reg|1|Registro!1^56#1*19@
+tes|6|test_filtra_por_pais!3^34#5*34@test_lee_poblaciones!3^24#5*34@test_filtra_por_paises_y_anyo!3^40#5*34@test_muestra_evolucion_poblacion!3^46#5*34@test_muestra_comparativa_paises_anyo!3^49#5*34@test_calcula_paises!3^28#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

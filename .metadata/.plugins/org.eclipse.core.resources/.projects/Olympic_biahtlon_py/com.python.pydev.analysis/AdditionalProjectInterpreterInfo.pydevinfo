@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Olympic_biahtlon_py/com.python.pydev.analysis/v2_indexcache
+biathlon|1641913141000000000|/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Olympic_biahtlon_py/src/biathlon.py
+biathlon_test|1641913299000000000|/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Olympic_biahtlon_py/src/biathlon_test.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=biathlon
+3=/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Olympic_biahtlon_py/src/biathlon_test.py
+1=/Users/macdemarco/Library/CloudStorage/OneDrive-UNIVERSIDADDESEVILLA/Universidad/Fundamentos de Programación/Eclipse_Workspace/Olympic_biahtlon_py/src/biathlon.py
+4=biathlon_test
+-- END DICTIONARY
+-- START TREE 1
+12
+agr|2|agrupar_por_nacionalidades_registradas_2!1^133#5*18@agrupar_por_nacionalidades_registradas!1^116#5*18@
+aux|1|aux_result!1^171#5*18@
+bia|1|Biathlon!1^11#1*19@
+cal|1|calcula_media_de_resultados_olímpicos!1^76#5*18@
+con|1|contador_disciplinas!1^145#5*18@
+fil|1|filtra_ganador!1^66#5*18@
+gan|1|ganador_por_disciplina!1^220#5*18@
+lee|1|lee_biathlon!1^17#5*18@
+mai|4|main_entrega1!3^18#5*34@main_defensa!3^162#5*34@main_entrega2!3^61#5*34@main_entrega3!3^131#5*34@
+max|1|max_suma_result_por_disciplina!1^157#5*18@
+obt|2|obtener_registro_por_nacionalidad!1^104#5*18@obtener_registro_mejor_resultado!1^92#5*18@
+por|1|porcentaje_resultados!1^194#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
