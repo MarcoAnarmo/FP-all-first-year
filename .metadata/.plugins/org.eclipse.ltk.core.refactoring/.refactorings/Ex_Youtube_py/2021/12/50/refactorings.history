@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Ex_Youtube/datda&apos; to &apos;data&apos;" description="Rename resource &apos;datda&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="datda" name="data" stamp="1639493208198" updateReferences="true"/>
-</session>
